@@ -7,118 +7,118 @@ const PhotoList = ({ category }) => {
 
   const [photos] = useState([
     {
-      name: 'Grocery aisle',
-      category: 'commercial',
+      name: 'Landing Page',
+      category: 'RunBuddy',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'Simply fill out the form and one of our experienced trainers will contact you'
     },
     {
-      name: 'Grocery booth',
-      category: 'commercial',
+      name: 'What We Do',
+      category: 'RunBuddy',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'We will help you reach tour goals with all the support you need'
     },
     {
-      name: 'Building exterior',
-      category: 'commercial',
+      name: 'What You Do Steps 1 and 2',
+      category: 'RunBuddy',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'Easy steps for you to follow'
     },
     {
-      name: 'Restaurant table',
-      category: 'commercial',
+      name: 'What You Do Steps 3 and 4',
+      category: 'RunBuddy',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'Get running and see the results'
     },
     {
-      name: 'Cafe interior',
-      category: 'commercial',
+      name: 'Reach Out',
+      category: 'RunBuddy',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'Easily reach out to us and get your journey started'
     },
     {
       name: 'Cat green eyes',
-      category: 'portraits',
+      category: 'MoneyTracker',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'Easily track your expenses in one place'
     },
     {
       name: 'Green parrot',
-      category: 'portraits',
+      category: 'MoneyTracker',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'Add or remove expenses from one place and keep your expenses in check'
     },
     {
       name: 'Yellow macaw',
-      category: 'portraits',
+      category: 'MoneyTracker',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'Follow your favorite stocks'
     },
     {
       name: 'Pug smile',
-      category: 'portraits',
+      category: 'MoneyTracker',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'Follow your favorite stocks'
     },
     {
       name: 'Pancakes',
-      category: 'food',
+      category: 'ArtGarage',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'Our site helps bring both Artists and Buyers together in one place'
     },
     {
       name: 'Burrito',
-      category: 'food',
+      category: 'ArtGarage',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'Artists can feature their work on their own page, allowing potential buyers to peruse their work'
     },
     {
       name: 'Scallop pasta',
-      category: 'food',
+      category: 'ArtGarage',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'With the Artists dedicated pages, potential buyers can rate and make comments'
     },
     {
       name: 'Burger',
-      category: 'food',
+      category: 'ArtGarage',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'Each potential buyer can rate the art anc comment on what they like about'
     },
     {
       name: 'Fruit bowl',
-      category: 'food',
+      category: 'ArtGarage',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'Comments and ratings are added to the artists page'
     },
     {
-      name: 'Green river',
-      category: 'landscape',
+      name: 'Regex Tutorial',
+      category: 'regex',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'This tutorial walks you through how to use regex to verify components of an email address'
     },
     {
-      name: 'Docks',
-      category: 'landscape',
+      name: 'Regex Tutorial',
+      category: 'regex',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'With the proper sequence of characters you can specify which charccters are required and in what section'
     },
     {
-      name: 'Panoramic village by sea',
-      category: 'landscape',
+      name: 'Regex Tutorial',
+      category: 'regex',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'Further breakdown of the regex expression'
     },
     {
-      name: 'Domestic landscape',
-      category: 'landscape',
+      name: 'Regex Tutorial',
+      category: 'regex',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'Table of Contents and Regex Components'
     },
     {
-      name: 'Park bench',
-      category: 'landscape',
+      name: 'Regex Tutorial',
+      category: 'regex',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
+        'More Regex Components'
     }
   ]);
 

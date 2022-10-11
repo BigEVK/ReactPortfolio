@@ -7,12 +7,12 @@ import ContactForm from './components/Contact';
 function App() {
   const [categories] = useState([
     {
-      name: 'commercial',
-      description: 'Photos of grocery stores, food trucks, and other commercial projects',
+      name: 'RunBuddy',
+      description: 'An app for finding a trainer to help you on your journey',
     },
-    { name: 'portraits', description: 'Portraits of people in my life' },
-    { name: 'food', description: 'Delicious delicacies' },
-    { name: 'landscape', description: 'Fields, farmhouses, waterfalls, and the beauty of nature' },
+    { name: 'MoneyTracker', description: 'A Money Tracker for Everyday Expenses' },
+    { name: 'ArtGarage', description: 'Bringing Artists and Buyers Together' },
+    { name: 'regex', description: 'A simple tutorial on Regex' },
   ]);
 
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
