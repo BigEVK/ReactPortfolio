@@ -37,55 +37,55 @@ const PhotoList = ({ category }) => {
         'Easily reach out to us and get your journey started'
     },
     {
-      name: 'Cat green eyes',
+      name: 'My Expense Tracker',
       category: 'MoneyTracker',
       description:
         'Easily track your expenses in one place'
     },
     {
-      name: 'Green parrot',
+      name: 'Add New Expense',
       category: 'MoneyTracker',
       description:
         'Add or remove expenses from one place and keep your expenses in check'
     },
     {
-      name: 'Yellow macaw',
+      name: 'Stock Ticker',
       category: 'MoneyTracker',
       description:
         'Follow your favorite stocks'
     },
     {
-      name: 'Pug smile',
+      name: 'Stock Ticker',
       category: 'MoneyTracker',
       description:
         'Follow your favorite stocks'
     },
     {
-      name: 'Pancakes',
+      name: 'Landing Page',
       category: 'ArtGarage',
       description:
         'Our site helps bring both Artists and Buyers together in one place'
     },
     {
-      name: 'Burrito',
+      name: 'Featured Artist',
       category: 'ArtGarage',
       description:
         'Artists can feature their work on their own page, allowing potential buyers to peruse their work'
     },
     {
-      name: 'Scallop pasta',
+      name: 'Artist Page',
       category: 'ArtGarage',
       description:
         'With the Artists dedicated pages, potential buyers can rate and make comments'
     },
     {
-      name: 'Burger',
+      name: 'Post a Comment',
       category: 'ArtGarage',
       description:
         'Each potential buyer can rate the art anc comment on what they like about'
     },
     {
-      name: 'Fruit bowl',
+      name: 'Artis Page with Comments',
       category: 'ArtGarage',
       description:
         'Comments and ratings are added to the artists page'
